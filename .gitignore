@@ -53,3 +53,5 @@ docs/_build/
 target/
 #Ipython Notebook
 .ipynb_checkpoints
+# database files
+*.sqlite3
