@@ -1,6 +1,7 @@
 # git - file list for ignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
+license.jb
 *.py[cod]
 *.pyc
 *$py.class
@@ -20,7 +21,7 @@ lib64/
 parts/
 sdist/
 var/
-*.egg-info/
+*.egg-inf       o/
 .installed.cfg
 *.egg
 # PyInstaller
