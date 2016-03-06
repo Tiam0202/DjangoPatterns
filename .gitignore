@@ -57,3 +57,4 @@ target/
 *.sqlite3
 # IDE folders
 .idea/
+static/.sass-cache
