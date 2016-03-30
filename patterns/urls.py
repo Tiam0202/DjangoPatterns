@@ -3,7 +3,7 @@ from patterns import views as patterns_views
 
 
 urlpatterns = [
-    url(r'^', patterns_views.index, name='index'),
+    url(r'/$', patterns_views.PolymerView.as_view(), name='polymer'),
 ]
 
 
